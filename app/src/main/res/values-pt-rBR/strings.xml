@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Campeonato Mundial de Voleibol</string>
+    <string name="app_name">Campeonato de Voleibol</string>
 
     <string name="cd_simulate">Botão de Simulação de Partidas.</string>
     <string name="cd_home_team">Imagem do time mandante.</string>
