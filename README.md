@@ -8,3 +8,5 @@ App Android Nativo de Simulação de Partida // Curso da DIO. Este repositório 
    - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/DaviEd-kyter/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
 3. Java e Kotlin Juntos!? Construindo Apps Android
    - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/DaviEd-kyter/matches-simulator-app/compare/release/java-e-kotlin-juntos-construindo-apps-android)
+4. Explorando o Firebase Para Apps Android Resilientes
+   - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/DaviEd-kyter/matches-simulator-app/compare/release/explorando-o-firebase-para-apps-android-resilientes)
