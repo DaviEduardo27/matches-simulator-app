@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064600001516",
+    "project_id": "simulator-dio-voleibol",
+    "storage_bucket": "simulator-dio-voleibol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064600001516:android:e3527d68a5be94ecbf7ec9",
+        "android_client_info": {
+          "package_name": "com.dio.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064600001516-8cjio9uenqrn1gqub0l9rpjbo8svgj58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTp7EiXcYKjvntcBcA367M2sahTbJxe3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064600001516-8cjio9uenqrn1gqub0l9rpjbo8svgj58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
